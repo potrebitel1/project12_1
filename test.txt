@@ -2,7 +2,7 @@ I am very happy file :) yo-ho-ho
 row 1 hello i am master local
 row 2 hello from cloned project and first project
 row 3 local from cloned project
-row 4 test time
+row 4 Time for lunch
 row 5 local
 row 6 petak 13ti
 
