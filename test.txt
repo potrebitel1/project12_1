@@ -5,5 +5,6 @@ row 3 local from cloned project
 row 4 Time for lunch
 row 5 local
 row 6 petak 13ti
+row 7 visual studio code
 
 
